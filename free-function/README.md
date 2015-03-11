@@ -1,2 +1,2 @@
 ##Free-function callback
-Implementing callback for a free function using function pointer.
+Implementing callback for a free function using a function pointer.
