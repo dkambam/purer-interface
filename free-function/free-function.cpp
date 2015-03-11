@@ -11,8 +11,7 @@ int main(){
 
 	int (*callback)(int, int); 	// definition
 	callback = &sum; 			// assignment	
-	
-	int result = callback(2,3); // the call
+	int result = callback(2,3); // call
 
 
 	std::cout << result << std::endl;
