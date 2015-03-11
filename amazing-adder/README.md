@@ -4,4 +4,4 @@ Using callbacks with:
 - functors
 
 # issue
-1. Unable to use both mechanisms simultaneously
+1. Unable to use both mechanisms interchangably
