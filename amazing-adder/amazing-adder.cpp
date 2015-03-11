@@ -1,8 +1,8 @@
+#include <iostream>
 
 void simple(int i){
-	std::cout << i << adds << std::endl;
+	std::cout << i << " adds." << std::endl;
 }
-
 
 
 int main(){
