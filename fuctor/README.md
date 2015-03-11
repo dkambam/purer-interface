@@ -1,10 +1,7 @@
-## DEMO: Functor callback
+## Functor callback demo
+This program shows a way to implement callbacks on fuctors.
 
-Functor
-* Is a function object that can save state.
-
-
-
-
-
+Note
+- A functor is an object that behaves like a function
+- Functors enable us to save state if necessary
 
