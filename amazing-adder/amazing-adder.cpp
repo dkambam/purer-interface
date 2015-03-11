@@ -1,5 +1,5 @@
 
-int simple(int i){
+void simple(int i){
 	std::cout << i << adds << std::endl;
 }
 
