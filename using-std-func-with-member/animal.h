@@ -49,6 +49,6 @@ private:
 	act_callback_t action_;
 };
 
-#include "animal.cpp"
+#include "animal.cpp" // to deal with linker errors. See note in readme.
 
 #endif
