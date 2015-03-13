@@ -20,5 +20,7 @@ int main(){
 	donald.set_action( &Duck::quack );
 	donald.act();
 
+	// donald.set_action( &Dog::bark ); // Ducks don't bark: compile error as expected
+
 	return 0;
 }
