@@ -2,6 +2,4 @@
 #define __ANIMAL_H__
 
 
-
-
 #endif
