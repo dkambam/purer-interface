@@ -1,5 +1,5 @@
 ### Overview
-A demo program to show how provided arguments may not matter when std::bind provides all arguments.
+Actual arguments don't matter when all arguments are bound by ```std::bind```.
 
 ### use-case
 
