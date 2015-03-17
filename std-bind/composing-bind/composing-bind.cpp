@@ -24,7 +24,7 @@ void compose( void ){
 	int values[] = {10, 20, 5, 15, -4};
 
 	std::for_each( values, values+5,
-				   std::bind( printf, "%d ", std::bind( sub, _1, 7) ) ); // binds composed within another bind
+				   std::bind( printf, "%d ", std::bind( sub, _1, 7) ) ); // bind composed within another bind
 
 	std::cout << std::endl;
 }
